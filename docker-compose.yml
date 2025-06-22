@@ -1,0 +1,9 @@
+services:
+  book-recommendation:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./books.csv:/app/books.csv
+    environment:
+      - BOOKS_CSV=/app/books.csv
