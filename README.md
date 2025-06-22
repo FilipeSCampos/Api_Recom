@@ -1,5 +1,9 @@
 # Documentação da API de Recomendação de Livros
 
+Filipe Sampaio
+Rafael Meirelles
+Thiago Leal
+
 ## Visão Geral
 API para recomendações de livros usando técnicas de:
 - **Best Sellers**: Livros mais bem avaliados
